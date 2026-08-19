@@ -196,7 +196,7 @@ python3 build.py --build BUILD_OPTION --copy_backend
 
 
 # Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=tntwise/real-video-enhancer&type=Date)](https://star-history.com/#tntwise/real-video-enhancer&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=tntwise/real-video-enhancer&type=Date)](https://star-history.dera.page/#tntwise/real-video-enhancer&type=Date)
 
 
 # Support Me:
